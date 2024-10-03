@@ -1,4 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Yi0Zbe2y)
+# This project is part of my Bachelor of Science (Data Science) Coursework at The University of Melbourne
 # MAST30034 Project 1 README.md
 - Name: Melissa Putri
 - Student ID: 1389438
